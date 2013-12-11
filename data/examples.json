@@ -1,0 +1,340 @@
+{
+  "examples": [
+    {
+      "ui": "Draggable",
+      "prefix": "draggable",
+      "examples": [
+        {
+          "name": "Default Functionality",
+          "path": "/draggable/default-functionality"
+        },
+        {
+          "name": "Events",
+          "path": "/draggable/events"
+        },
+        {
+          "name": "Constrain Movement",
+          "path": "/draggable/constrain-movement"
+        },
+        {
+          "name": "Delay Start",
+          "path": "/draggable/delay-start"
+        },
+        {
+          "name": "Snap to Element or Grid",
+          "path": "/draggable/snap-to-element-or-grid"
+        },
+        {
+          "name": "Auto-scroll",
+          "path": "/draggable/auto-scroll"
+        },
+        {
+          "name": "Revert Position",
+          "path": "/draggable/revert-position"
+        },
+        {
+          "name": "Visual Feedback",
+          "path": "/draggable/visual-feedback"
+        },
+        {
+          "name": "Drag Handle",
+          "path": "/draggable/drag-handle"
+        },
+        {
+          "name": "Cursor Style",
+          "path": "/draggable/cursor-style"
+        },
+        {
+          "name": "Draggable + Sortable",
+          "path": "/draggable/draggable-sortable"
+        }
+      ]
+    },
+    {
+      "ui": "Droppable",
+      "prefix": "droppable",
+      "examples": [
+        {
+          "name": "Default Functionality",
+          "path": "/droppable/default-functionality"
+        },
+        {
+          "name": "Accepted Elements",
+          "path": "/droppable/accepted-elements"
+        },
+        {
+          "name": "Prevent Propagation",
+          "path": "/droppable/prevent-propagation"
+        },
+        {
+          "name": "Visual Feedback",
+          "path": "/droppable/visual-feedback"
+        },
+        {
+          "name": "Revert Draggable Position",
+          "path": "/droppable/revert-draggable-position"
+        },
+        {
+          "name": "Shopping Cart",
+          "path": "/droppable/shopping-cart"
+        },
+        {
+          "name": "Simple Photo Manager",
+          "path": "/droppable/simple-photo-manager"
+        }
+      ]
+    },
+    {
+      "ui": "Resizable",
+      "prefix": "resizable",
+      "examples": [
+        {
+          "name": "Default Functionality",
+          "path": "/resizable/default-functionality"
+        },
+        {
+          "name": "Preserve Aspect Ratio",
+          "path": "/resizable/preserve-aspect-ratio"
+        },
+        {
+          "name": "Maximum / Minimum Size",
+          "path": "/resizable/maximum-minimum-size"
+        },
+        {
+          "name": "Constrain Resize Area",
+          "path": "/resizable/constrain-resize-area"
+        },
+        {
+          "name": "Delay Start",
+          "path": "/resizable/delay-start"
+        },
+        {
+          "name": "Snap to Grid",
+          "path": "/resizable/snap-to-grid"
+        },
+        {
+          "name": "Visual Feedback",
+          "path": "/resizable/visual-feedback"
+        },
+        {
+          "name": "Synchronous Resize",
+          "path": "/resizable/synchronous-resize"
+        },
+        {
+          "name": "Animate",
+          "path": "/resizable/animate"
+        },
+        {
+          "name": "Resize Helper",
+          "path": "/resizable/resize-helper"
+        },
+        {
+          "name": "Textarea",
+          "path": "/resizable/textarea"
+        }
+      ]
+    },
+    {
+      "ui": "Selectable",
+      "prefix": "selectable",
+      "examples": [
+        {
+          "name": "Default Functionality",
+          "path": "/selectable/default-functionality"
+        },
+        {
+          "name": "Serialize",
+          "path": "/selectable/serialize"
+        },
+        {
+          "name": "Display as Grid",
+          "path": "/selectable/display-as-grid"
+        }
+      ]
+    },
+    {
+      "ui": "Sortable",
+      "prefix": "sortable",
+      "examples": [
+        {
+          "name": "Default Functionality",
+          "path": "/sortable/default-functionality"
+        },
+        {
+          "name": "Drop Placeholder",
+          "path": "/sortable/drop-placeholder"
+        },
+        {
+          "name": "Connect Lists",
+          "path": "/sortable/connect-lists"
+        },
+        {
+          "name": "Connect Lists Through Tabs",
+          "path": "/sortable/connect-lists-through-tabs"
+        },
+        {
+          "name": "Handle Empty Lists",
+          "path": "/sortable/handle-empty-lists"
+        },
+        {
+          "name": "Include / Exclude Items",
+          "path": "/sortable/include-exclude-items"
+        },
+        {
+          "name": "Delay Start",
+          "path": "/sortable/delay-start"
+        },
+        {
+          "name": "Display as Grid",
+          "path": "/sortable/display-as-grid"
+        },
+        {
+          "name": "Portlets",
+          "path": "/sortable/portlets"
+        }
+      ]
+    },
+    {
+      "ui": "Accordion",
+      "prefix": "accordion",
+      "examples": [
+        {
+          "name": "Default Functionality",
+          "path": "/accordion/default-functionality"
+        },
+        {
+          "name": "Fill Space",
+          "path": "/accordion/fill-space"
+        },
+        {
+          "name": "No Auto Height",
+          "path": "/accordion/no-auto-height"
+        },
+        {
+          "name": "Collapse Content",
+          "path": "/accordion/collapse-content"
+        },
+        {
+          "name": "Open on Mouseover",
+          "path": "/accordion/open-on-mouseover"
+        },
+        {
+          "name": "Open on Hover Intent",
+          "path": "/accordion/open-on-hover-intent"
+        },
+        {
+          "name": "Customize Icons",
+          "path": "/accordion/customize-icons"
+        },
+        {
+          "name": "Sortable",
+          "path": "/accordion/sortable"
+        }
+      ]
+    },
+    {
+      "ui": "Autocomplete",
+      "prefix": "autocomplete",
+      "examples": [
+        {
+          "name": "Scrollable Results",
+          "path": "/autocomplete/scrollable-results"
+        }
+      ]
+    },
+    {
+      "ui": "Dialog",
+      "prefix": "dialog",
+      "examples": [
+        {
+          "name": "Default Functionality",
+          "path": "/dialog/default-functionality"
+        },
+        {
+          "name": "Animated Dialog",
+          "path": "/dialog/animated-dialog"
+        },
+        {
+          "name": "Modal Dialog",
+          "path": "/dialog/modal-dialog"
+        },
+        {
+          "name": "Modal Message",
+          "path": "/dialog/modal-message"
+        },
+        {
+          "name": "Modal Confirmation",
+          "path": "/dialog/modal-confirmation"
+        },
+        {
+          "name": "Modal Form",
+          "path": "/dialog/animated-dialog"
+        }
+      ]
+    },
+    {
+      "ui": "Progressbar",
+      "prefix": "progressbar",
+      "examples": [
+        {
+          "name": "Resizable Progressbar",
+          "path": "/progressbar/resizable-progressbar"
+        }
+      ]
+    },
+    {
+      "ui": "Slider",
+      "prefix": "slider",
+      "examples": [
+        {
+          "name": "Default Functionality",
+          "path": "/slider/default-functionality"
+        },
+        {
+          "name": "Snap to Increments",
+          "path": "/slider/snap-to-increments"
+        },
+        {
+          "name": "Range Slider",
+          "path": "/slider/range-slider"
+        },
+        {
+          "name": "Range with Fixed Minimum",
+          "path": "/slider/range-with-fixed-minimum"
+        },
+        {
+          "name": "Range with Fixed Maximum",
+          "path": "/slider/range-with-fixed-maximum"
+        },
+        {
+          "name": "Room Reservation",
+          "path": "/slider/room-reservation"
+        },
+        {
+          "name": "Vertical Slider",
+          "path": "/slider/vertical-slider"
+        },
+        {
+          "name": "Vertical Range Slider",
+          "path": "/slider/vertical-range-slider"
+        },
+        {
+          "name": "Multiple Sliders",
+          "path": "/slider/multiple-sliders"
+        },
+        {
+          "name": "Simple Colorpicker",
+          "path": "/slider/simple-colorpicker"
+        },
+        {
+          "name": "Simple Scrollbar",
+          "path": "/slider/simple-scrollbar"
+        },
+        {
+          "name": "Slider Controls Tabs",
+          "path": "/slider/slider-controls-tabs"
+        }
+      ]
+    }
+  ]
+}
